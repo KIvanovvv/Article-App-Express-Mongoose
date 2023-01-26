@@ -1,0 +1,29 @@
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="/public/site.css" />
+    <title>{{title}}</title>
+  </head>
+  <body>
+    <header>
+      <ul>
+        <li><a href="/">Home</a> </li>
+        <li><a href="/articles">Articles</a></li>
+        {{#if user}}
+          <li><a href="/published">Published</a></li>
+          <li><a href="/create">Create</a></li>
+          <li><a href="/auth/Logout">Logout</a></li>
+        {{else}}
+          <li><a href="/auth/login">Login</a></li>
+          <li><a href="/auth/register">Register</a></li>
+        {{/if}}
+      </ul>
+    </header>
+    <main>
+      {{{body}}}
+    </main>
+
+  </body>
+</html>
