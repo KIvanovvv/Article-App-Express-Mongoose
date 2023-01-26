@@ -29,7 +29,13 @@ ul {
 }
 
 ul li {
-  background-color: #ccc;
+  /* background-color: #ccc; */
+  background: linear-gradient(
+    67deg,
+    rgba(241, 225, 215, 1) 0%,
+    rgba(177, 175, 156, 1) 46%,
+    rgba(201, 140, 102, 1) 93%
+  );
   padding: 5px 20px;
 }
 a {
@@ -41,7 +47,9 @@ li:hover {
   background-color: lightgray;
 }
 .container {
-  background-color: rgb(113, 113, 6);
+  background-image: url("https://freerangestock.com/sample/140800/wooden-background--dark-brown-wood-background.jpg");
+  background-repeat: none;
+  background-size: cover;
   padding: 20px 200px;
   display: flex;
   flex-direction: column;
@@ -113,7 +121,13 @@ form button {
 }
 
 .article_comments {
-  background-color: #ccc;
+  /* background-color: #ccc; */
+  background: linear-gradient(
+    67deg,
+    rgba(241, 225, 215, 1) 0%,
+    rgba(177, 175, 156, 1) 46%,
+    rgba(201, 140, 102, 1) 93%
+  );
   padding: 10px 20px;
   display: flex;
   flex-direction: column;
@@ -172,10 +186,20 @@ form button {
 }
 
 .home_wrapper {
-  background-color: #ccc;
+  /* background-color: #ccc; */
+  background: linear-gradient(
+    67deg,
+    rgba(241, 225, 215, 1) 0%,
+    rgba(177, 175, 156, 1) 46%,
+    rgba(201, 140, 102, 1) 93%
+  );
   text-align: center;
   padding: 20px 40px;
   display: flex;
   flex-direction: column;
   gap: 10px;
+}
+
+.page_header {
+  color: white;
 }
