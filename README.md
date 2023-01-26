@@ -27,7 +27,7 @@ Link to the deployed project https://modern-hen-necklace.cyclic.app/
 
 
 ## Screenshots
-**Guests:**
+**Guest Views:**
 ![App Screenshot](https://firebasestorage.googleapis.com/v0/b/test-b53a1.appspot.com/o/homeGuest.PNG?alt=media&token=af50ff6a-aee3-4ca2-8aca-ed5211b36337)
 
 ![App Screenshot](https://firebasestorage.googleapis.com/v0/b/test-b53a1.appspot.com/o/articleGuest.PNG?alt=media&token=13d91e80-96f8-49f4-900f-2036602cbe9b)
@@ -36,7 +36,7 @@ Link to the deployed project https://modern-hen-necklace.cyclic.app/
 
 ![App Screenshot](https://firebasestorage.googleapis.com/v0/b/test-b53a1.appspot.com/o/registerGuest.PNG?alt=media&token=bf28c6c9-b287-4647-a4d5-0569014bdcd8)
 
-**Users:**
+**User Views:**
 ![App Screenshot](https://firebasestorage.googleapis.com/v0/b/test-b53a1.appspot.com/o/homeUser.PNG?alt=media&token=04ecdcae-baf6-4498-b68a-8c9496d6f203)
 
 ![App Screenshot](https://firebasestorage.googleapis.com/v0/b/test-b53a1.appspot.com/o/article.PNG?alt=media&token=6bf9b19b-5a48-4f54-8e05-c9a0bb06d21a)
