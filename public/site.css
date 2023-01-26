@@ -161,3 +161,12 @@ form button {
 .a_btn {
   padding: 0px 25px;
 }
+
+.home_wrapper {
+  background-color: #ccc;
+  text-align: center;
+  padding: 20px 40px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
