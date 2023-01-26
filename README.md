@@ -1,7 +1,7 @@
 
 # ArticleApp
 
-This is a personal project, in which I implement MVC architecture connected to Cloud MongoDB. Upon register or login the user recives a JsonWebToken. With a valid JWT the server create's a session wiht the user's "view information". The validity of the token is checked upon every request with middleware guards.
+This is a personal project, in which I implement MVC architecture connected to Cloud MongoDB. Upon register or login the user recives a JsonWebToken. With a valid JWT the server creates a session with the user's "view information". The validity of the token is checked upon every request with middleware guards.
 
 
 ## Features
